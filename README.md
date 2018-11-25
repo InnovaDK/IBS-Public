@@ -1,2 +1,1 @@
-# test2
-IBS Public, just a test repo
+# IBS Public, just a test repo
