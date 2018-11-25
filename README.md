@@ -1,2 +1,2 @@
 # test2
-test2
+IBS Public, just a test repo
